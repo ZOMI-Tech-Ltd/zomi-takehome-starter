@@ -91,7 +91,12 @@ rather than duplicating it.
 
 ## What to submit
 
-1. A **branch or PR** on this repo.
+1. Click **"Use this template"** on this repo (green button, top right) to create
+   **your own repository** — when prompted, **select Private**. Build your submission
+   there (commit to `main` or a branch — your call). When you're ready for review, add
+   the reviewer (GitHub handle in your invitation) as a collaborator and share the link.
+   Please don't fork this repo or open a PR against it — submissions should stay private
+   to you.
 2. A short **README addition**: approach, one trade-off, what you'd do next, and an
    **AI-tool disclosure** (what you used + what you personally reviewed/changed).
 3. A **3–5 min screen-recording (中文解说)** that **briefly shows the core flow working**
